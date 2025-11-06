@@ -82,7 +82,7 @@ export default function LinkCardComponent() {
         {links.map((link, index) => {
           const isExpanded = expandedId === link.id
           const hasGroups = link.groups && link.groups.length > 0
-          const isInstagram = link.id === "6"
+          const isInstagram = link.id === "7"
 
           return (
             <div key={link.id} className="flex flex-col">
