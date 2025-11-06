@@ -38,6 +38,13 @@ const links: Link[] = [
   },
   {
     id: "4",
+    title: "Saluran",
+    subtitle: "Grup Informasi",
+    icon: <Users className="w-6 h-6" />,
+    url: "https://whatsapp.com/channel/0029Vb3UNRP3gvWejdAJpT0X",
+  },
+  {
+    id: "5",
     title: "Grup Jual Beli",
     subtitle: "Patuhi peraturan grup!",
     icon: <Users className="w-6 h-6" />,
@@ -51,14 +58,14 @@ const links: Link[] = [
     ],
   },
   {
-    id: "5",
+    id: "6",
     title: "Grup Mabar",
     subtitle: "Mabar by Wenstein",
     icon: <Gamepad2 className="w-6 h-6" />,
     url: "https://chat.whatsapp.com/F6ZzS8JvqAJE4AY5TgKJvh",
   },
   {
-    id: "6",
+    id: "7",
     title: "Instagram",
     subtitle: "Selain @wensteinstore = FAKE!",
     icon: <Instagram className="w-6 h-6" />,
